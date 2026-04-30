@@ -1,1 +1,8 @@
-
+1- Ele descreve as características de um Banco de Dados sem o uso de um SGBD, ajudando o analista a compreender de forma mais humanizada as informações
+2- As entidades são objetos da vida real que armazenam informações (ex: Aluno).
+Um relacionamento, como o nome já sugere, é o que relaciona duas entidades (ex: aluno -> estuda em -> escola. "estuda em" é o relacionamento e os outros dois são entidades).
+Os atributos são informações armazenadas em entidades (ex: CPF).
+3- Os papéis representam como uma entidade se relaciona com ela mesma através de um relacionamento
+(ex: Pessoa <-> Casado. A pessoa pode ter papel de marido ou de esposa).
+4- 
+10- O atributo função pode ter os valores funcionário ou gerente
