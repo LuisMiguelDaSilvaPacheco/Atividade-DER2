@@ -6,3 +6,4 @@ Os atributos são informações armazenadas em entidades (ex: CPF).
 (ex: Pessoa <-> Casado. A pessoa pode ter papel de marido ou de esposa).
 4- 
 10- O atributo função pode ter os valores funcionário ou gerente
+11- a) Secretaria, departamento, atividades, mesa.
