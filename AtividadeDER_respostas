@@ -6,5 +6,6 @@ Os atributos são informações armazenadas em entidades (ex: CPF).
 (ex: Pessoa <-> Casado. A pessoa pode ter papel de marido ou de esposa).
 4- O conceito de especialização e generalização atribui outras propriedades as entidades, a partir desse conceito é possivel atribuir propriedades particulares a um subconjunto.
 5- a) Depende da cardinalidade, mas assumindo que loja deve possuir um funcionario, e um funcionário deve trabalhar em uma loja, é total, caso uma loja não precisar obrigatoriamente de um funcionário, seria parcial. b)Levando em conta que um fornecedor deve fornecer um produto, é total, porém, podemos ter fornecedores cadastrados que não fornecem um produto, nesse caso, seria parcial. c)Caso todo aluno precisar estar cursando um curso, seria total, se um aluno pode ou não estar cursando um curso, então seria parcial. 
+6- a) Nome é composto e monovalorado. b) Telefone é composto e multivalorado. c) Endereço é composto e multivalorado. d) RG é simples, monovalorado e identificador. e) CPF é simples, monovalorado e identificador. f) Data-admissão é composto e monovalorado.
 10- O atributo função pode ter os valores funcionário ou gerente
 11- a) Secretaria, departamento, atividades, mesa.
